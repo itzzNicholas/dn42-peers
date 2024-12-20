@@ -27,7 +27,7 @@
   ipv6: fdf6:f32e:9196::/48
   multiprotocol: true
   sessions:
-    - ipv4
+    - ipv6
   wireguard:
     remote_address: 37.202.207.206
     remote_port: 53885
