@@ -27,7 +27,7 @@
   ipv6: fdf6:f32e:9196::/48
   multiprotocol: true
   sessions:
-    - ipv6
+    - ipv6 # Fixed the mistake i did earlier
   wireguard:
     remote_address: 37.202.207.206
     remote_port: 53885
